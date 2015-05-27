@@ -1,4 +1,4 @@
-# Conccurent Aiport Simulator in C&#35;
+# Concurrent Aiport Simulator in C&#35;
 
 An airport simulator written in C# to demonstrate concurrency. The application uses concurrent concepts such as multi-threading, locks, semaphores etc... The project has been created from Microsoft Visual Studio 2013.
 
